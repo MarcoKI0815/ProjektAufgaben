@@ -13,7 +13,7 @@ class Trainingsplan {
   });
 
   //funktion zu ToString Geändert, ermöglicht String "trainingspläne" zu Printen.
- @override
+  @override
   String toString() {
     return  "Trainingsplan: $name ,$ziel, $uebungen, $dauerInWochen";
     

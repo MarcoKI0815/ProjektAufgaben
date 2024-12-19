@@ -12,9 +12,6 @@ abstract class DatabaseRepository {
 //Delete 
 void removeTrainingsPlan(String id);
 
-
-
-
 }
 
 

@@ -4,6 +4,7 @@ class PushBenachrichtigung {
 
   PushBenachrichtigung(this.nachricht);
 
+
   void sendeBenachrichtigung() {
     print("PUSH: $nachricht");
   }
