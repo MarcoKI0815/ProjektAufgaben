@@ -16,6 +16,5 @@ class Trainingsplan {
   @override
   String toString() {
     return  "Trainingsplan: $name ,$ziel, $uebungen, $dauerInWochen";
-  
   }
 }

@@ -15,7 +15,7 @@ class MockDatabase implements DatabaseRepository {
  @override
  List <Trainingsplan> getAllTrainingsPlaene(){
  return trainingsPlaene.values.toList(); 
-}
+ }
   // Trainingsplan entfernen
   @override
   void removeTrainingsPlan(String id) {

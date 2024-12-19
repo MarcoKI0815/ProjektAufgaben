@@ -8,7 +8,7 @@ void main () {
   Trainingsplan bauchBeinePo =  Trainingsplan (
   name: "Bauch Training",
   ziel: "Bauch Muskeln Trainiren", 
-  uebungen: ["Liegestütze", "Kniebeugen", "Plank", "Burpees"],
+  uebungen:["Liegestütze", "Kniebeugen", "Plank", "Burpees"],
   dauerInWochen: 2 );
  
  mockDatabase.addTrainingsplan( "1" , bauchBeinePo); 

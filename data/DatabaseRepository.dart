@@ -6,7 +6,6 @@ abstract class DatabaseRepository {
 //Create Methode
  void addTrainingsplan (String id , Trainingsplan  newTrainingsPlan);
 
-
  List <Trainingsplan> getAllTrainingsPlaene();
 
 //Delete 
