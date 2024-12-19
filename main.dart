@@ -11,7 +11,6 @@ void main () {
   uebungen: ["Liegestütze", "Kniebeugen", "Plank", "Burpees"],
   dauerInWochen: 2 );
  
-
  mockDatabase.addTrainingsplan( "1" , bauchBeinePo); 
 
   Trainingsplan bizeps =  Trainingsplan (
